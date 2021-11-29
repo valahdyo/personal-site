@@ -1,7 +1,7 @@
 # personal-site
 
 ## General info
-This project is the answer for technical test at dumbways.
+This project is my personal website.
 	
 ## Technologies
 Project is created with:
